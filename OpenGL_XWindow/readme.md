@@ -1,4 +1,4 @@
-All the codes are carried out on Ubuntu 12.04 LTS precise pangoline.
+All the codes are carried out on Ubuntu 16.04 LTS
 
 1) You will need to run following commands to install all required openGL packages:--
 
