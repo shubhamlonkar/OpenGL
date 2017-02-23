@@ -1,0 +1,7 @@
+#include "OpenGL_Native_MS_TeapotModel.h"
+
+
+IDBITMAP_GLASS BITMAP DISCARDABLE "Glass.bmp"
+
+
+

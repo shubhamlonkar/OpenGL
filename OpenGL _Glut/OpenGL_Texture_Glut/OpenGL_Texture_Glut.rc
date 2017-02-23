@@ -1,0 +1,4 @@
+#include "OpenGL_Texture_Glut.h"
+
+IDBITMAP_KUNDALI BITMAP Vijay_Kundali.bmp
+IDBITMAP_STONE BITMAP Stone.bmp

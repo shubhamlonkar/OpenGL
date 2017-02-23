@@ -1,0 +1,3 @@
+#include "OpenGL_TeapotModel_Texture_Glut.h"
+
+IDBITMAP_GLASS BITMAP DISCARDABLE "Glass.bmp"
