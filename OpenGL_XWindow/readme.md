@@ -3,8 +3,11 @@ All the codes are carried out on Ubuntu 16.04 LTS
 1) You will need to run following commands to install all required openGL packages:--
 
 sudo apt-get install libx11-dev -y
+
 sudo apt-get install libsoil-dev -y
+
 sudo apt-get install mesa-common-dev -y
+
 sudo apt-get install libglu1-mesa-dev -y
 
 2) command to run the program:--
